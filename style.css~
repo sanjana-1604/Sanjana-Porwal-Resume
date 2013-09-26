@@ -149,7 +149,7 @@ body
 .info
 {
     padding: 50px 25px 25px 25px;  
-    height: auto:  
+    height: auto: 
 }
 .info p
 {

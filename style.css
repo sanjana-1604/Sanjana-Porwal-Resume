@@ -18,13 +18,13 @@ ul
 
 body
 {
-    background:url("img/back.jpg");
+    background:url("My_img/back.jpg");
 }
-.container
+/*.container
 {
     margin:3.125em auto auto auto;
     width: 56.25em;
-}
+}*/
 .menu
 {
     position: relative;

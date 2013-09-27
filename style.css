@@ -149,11 +149,12 @@ body
 .info
 {
     padding: 50px 25px 25px 25px;  
-    height: auto: 
+    height: 300px; 
 }
 .info p
 {
-    padding-top: 10px ;    
+    padding-top: 10px ;  
+  
 }
 .my_pic
 {
@@ -174,7 +175,16 @@ body
     }*/
 h1
 {
-    font-family: 'Frijole', cursive;
+   /* font-family: 'Frijole', cursive;*/
     padding-left:80px;
     color:#999;
+}
+#About_Info, #Experience_Info,#Education_Info
+{
+padding: 50px 25px 25px 25px;
+}
+.About_list,.Exp_list,.Edu_list
+{
+list-style: circle;
+padding: auto 10px 25px 10px;
 }

@@ -154,37 +154,38 @@ body
 .info p
 {
     padding-top: 10px ;  
-  
+    padding-right: 1770px;
+    
 }
 .my_pic
 {
     float:right;
 }
-  /*.back_rectangle
-    {
-    height: 250px;
-    width: 50.25em;
-    left:25px;
-    //top: 70px;
-    position:relative;
-    background: rgba(154, 154, 154, 0.35);
-    //display:inline;
-    -moz-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
-    -khtml-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
-    -webkit-box-shadow: 0px 0px 4px rgba(0,0,0,0.55); 
-    }*/
+/*.back_rectangle
+  {
+  height: 250px;
+  width: 50.25em;
+  left:25px;
+  //top: 70px;
+  position:relative;
+  background: rgba(154, 154, 154, 0.35);
+  //display:inline;
+  -moz-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
+  -khtml-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
+  -webkit-box-shadow: 0px 0px 4px rgba(0,0,0,0.55); 
+  }*/
 h1
 {
-   /* font-family: 'Frijole', cursive;*/
+    /* font-family: 'Frijole', cursive;*/
     padding-left:80px;
     color:#999;
 }
 #About_Info, #Experience_Info,#Education_Info
 {
-padding: 50px 25px 25px 25px;
+    padding: 50px 25px 25px 25px;
 }
 .About_list,.Exp_list,.Edu_list
 {
-list-style: circle;
-padding: auto 10px 25px 10px;
+    list-style: circle;
+    padding: auto 10px 25px 10px;
 }

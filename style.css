@@ -35,8 +35,13 @@ body
 
 .menu ul li
 {
-    -webkit-transform:rotate(-45deg);
-    -moz-transform:rotate(-45 deg);
+    -webkit-transform:rotate(-45deg);/*Safari*/
+    -moz-transform:rotate(-45deg);/*Mozilla*/
+    -ms-transform:rotate(-45deg);/*IE9 and above*/
+    -o-transform:rotate(-45deg);/*Opera*/
+    transform:rotate(-45deg);
+
+
     overflow:visible;
     float:left;
     background: #7f9db9;
